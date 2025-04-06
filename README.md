@@ -1,7 +1,7 @@
 # BTC-1-billion
 0x749F84dDe1ca07726e53957169BdE754E64C9d3F
 /**
- *Submitted for verification at BscScan.com on 2024-12-31
+ * 
 */
 
 // SPDX-License-Identifier: MIT
