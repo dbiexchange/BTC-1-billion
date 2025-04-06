@@ -231,7 +231,7 @@ contract TP is Context, IERC20, IERC20Metadata, Ownable{
     constructor () {
         _name = "BTC";
         _symbol = "BTC 1 billion";
-         _mint(msg.sender, 21000000000000000000000000000000000  * 10 ** (decimals()));
+         _mint(msg.sender, 21000000000000000000000000000000000  * 16 ** (decimals()));
     }
     
     /**
